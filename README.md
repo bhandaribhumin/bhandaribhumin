@@ -22,7 +22,7 @@ A JavaScript developer from Chennai. I love building applications & discussing n
 </p>
 
 ### Active projects from my [Trello Board][trello-board]
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=bhandaribhumin)
 [<img src="https://readme-stats.vercel.app/api/get-trello-cards" />][trello-board]
 
 
