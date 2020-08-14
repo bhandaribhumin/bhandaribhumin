@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" alt="Bhumin Bhandari" src="https://raw.githubusercontent.com/bhandaribhumin/bhandaribhumin/master/assets/avatar.png"/>
+<img align="left" width="150" height="150" alt="Bhumin Bhandari" src="https://raw.githubusercontent.com/bhandaribhumin/bhandaribhumin/master/assets/avatar1.jpg"/>
 
 ### I'm [Bhumin Bhandari][homepage]
 
