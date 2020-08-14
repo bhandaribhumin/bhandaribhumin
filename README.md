@@ -6,6 +6,10 @@ A JavaScript developer from Chennai. I love building applications & discussing n
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bhandaribhumin?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter] [![Twitch Status](https://img.shields.io/twitch/status/bhandaribhumin?label=LiveStream&style=for-the-badge)][twitch]
 
+### Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=bhandaribhumin)
+
 ### I'm Currently
 
 - 📱 Building a cool mobile app for [Pickyourtrail][pickyourtrail]
@@ -22,7 +26,7 @@ A JavaScript developer from Chennai. I love building applications & discussing n
 </p>
 
 ### Active projects from my [Trello Board][trello-board]
-![Github stats](https://github-readme-stats.vercel.app/api?username=bhandaribhumin)
+
 [<img src="https://readme-stats.vercel.app/api/get-trello-cards" />][trello-board]
 
 
