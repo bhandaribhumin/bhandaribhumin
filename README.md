@@ -4,6 +4,8 @@
 
 A JavaScript developer from Chennai. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
 
+[![Linkedin: bhandaribhumin](https://img.shields.io/badge/-bhandaribhumin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhandaribhumin/)](https://www.linkedin.com/in/bhandaribhumin/)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/bhandaribhumin?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter] [![Twitch Status](https://img.shields.io/twitch/status/bhandaribhumin?label=LiveStream&style=for-the-badge)][twitch]
 
 ### Stats
