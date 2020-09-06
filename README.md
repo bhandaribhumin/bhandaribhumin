@@ -2,7 +2,7 @@
 
 ### I'm [Bhumin Bhandari](https://github.com/bhandaribhumin)
 
-A JavaScript developer from Chennai. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
+A JavaScript developer from Mumbai. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
 
 [![Linkedin: bhandaribhumin](https://img.shields.io/badge/-bhandaribhumin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhandaribhumin/)](https://www.linkedin.com/in/bhandaribhumin/)
 
