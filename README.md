@@ -2,6 +2,33 @@
 
 ### I'm [Bhumin Bhandari](https://github.com/bhandaribhumin)
 
+<style>
+    span {
+    background: linear-gradient(135deg, #387DFF 0, #47D6E2 50%, #387DFF 100%);
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-box-decoration-break: clone;
+    text-align: center;
+    transform: translateZ(0);
+    background-size: 200% auto;
+    display: inline;
+}
+span {
+    animation: shine 4s linear infinite;
+}
+@keyframes shine {
+    to {
+        background-position: 200% center;
+        will-change: background-position
+    }
+}
+</style>
+<span >
+Bhumin Bhandari
+</span>
+
+
 A JavaScript developer from Mumbai. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
 
 [![Linkedin: bhandaribhumin](https://img.shields.io/badge/-bhandaribhumin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhandaribhumin/)](https://www.linkedin.com/in/bhuminbhandari/)
