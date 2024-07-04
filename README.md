@@ -16,6 +16,28 @@ A JavaScript developer from Mumbai. I love building applications & discussing ne
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bhandaribhumin)
 
+### <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGE2ajBycGdobWgwZGVmN21paWVmeTRzajViOXl1MTVvcnc5NDZyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp)" width="50"> A little more about me...  
+
+```javascript
+const bhumin_bhandari = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Angular", "React", "PHP"],
+    askMeAbout: ["Mobile Application", "Web Dev", "Backend", "Excel"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        mobileApp: {
+            hybrid: ["Ionic", "Flutter", "React Native"]
+        },
+        devOps: ["AWS", "Docker🐳", "Git", "Nginx"],
+        databases: ["GraphQL", "mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"]
+};
+```
+
 ### I'm Currently
 
 - 📱 Building a cool mobile app for [Pickyourtrail][pickyourtrail]
