@@ -1,32 +1,18 @@
 <img align="left" width="150" height="150" alt="Bhumin Bhandari" src="https://raw.githubusercontent.com/bhandaribhumin/bhandaribhumin/master/assets/avatar1.jpg"/>
 
 ### I'm [Bhumin Bhandari](https://github.com/bhandaribhumin)
+<div align="center">
+	<br>
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
+</div>
 
-<style>
-    span {
-    background: linear-gradient(135deg, #387DFF 0, #47D6E2 50%, #387DFF 100%);
-    -webkit-text-fill-color: transparent;
-    text-fill-color: transparent;
-    -webkit-background-clip: text;
-    -webkit-box-decoration-break: clone;
-    text-align: center;
-    transform: translateZ(0);
-    background-size: 200% auto;
-    display: inline;
-}
-span {
-    animation: shine 4s linear infinite;
-}
-@keyframes shine {
-    to {
-        background-position: 200% center;
-        will-change: background-position
-    }
-}
-</style>
-<span >
-Bhumin Bhandari
-</span>
+
+
+<br>
+<br>
 
 
 A JavaScript developer from Mumbai. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
