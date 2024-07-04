@@ -1,18 +1,11 @@
 <img align="left" width="150" height="150" alt="Bhumin Bhandari" src="https://raw.githubusercontent.com/bhandaribhumin/bhandaribhumin/master/assets/avatar1.jpg"/>
 
 ### I'm [Bhumin Bhandari](https://github.com/bhandaribhumin)
-<div align="center">
-	<br>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
 		<img src="header.svg" width="800" height="400" alt="Click to see the source">
 	</a>
-	<br>
-</div>
 
 
-
-<br>
-<br>
 
 
 A JavaScript developer from Mumbai. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
