@@ -34,12 +34,13 @@
 						opacity: 1;
 					}
 				}
-        @keyframes shine {
-      to {
-          background-position: 200% center;
-          will-change: background-position
-        }
-    }
+				
+			        @keyframes shine {
+			      		to {
+				          background-position: 200% center;
+				          will-change: background-position
+			        	}
+			    	}
 
 				.container {
 					font-family:
@@ -78,7 +79,7 @@
 						0 3px 0 #efefef,
 						0 4px 0 #efefef,
 						0 12px 5px rgba(0, 0, 0, 0.1);
-<!-- 					animation: rotate ease-in-out 1s infinite alternate; -->
+
         animation: shine 4s linear infinite;
          background: linear-gradient(135deg, #387DFF 0, #47D6E2 50%, #387DFF 100%);
          -webkit-text-fill-color: transparent;
