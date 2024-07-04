@@ -73,7 +73,13 @@
 					line-height: 1.3;
 					letter-spacing: 5px;
 					text-transform: uppercase;
-					
+					text-shadow:
+						0 1px 0 #efefef,
+						0 2px 0 #efefef,
+						0 3px 0 #efefef,
+						0 4px 0 #efefef,
+						0 12px 5px rgba(0, 0, 0, 0.1);
+
         animation: shine 4s linear infinite;
          background: linear-gradient(135deg, #387DFF 0, #47D6E2 50%, #387DFF 100%);
          -webkit-text-fill-color: transparent;
